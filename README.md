@@ -11,3 +11,4 @@
 ---
 ## Summary
 - The updated School District analysis has four major changes. One being the total students as we removed the data for 9th graders at Thomas High School. The next would be the average scores for both math and reading as the data amount changed. Another change would be the % of students that passed math, reading and overall. This changed because of the incorrect data for 9th graders that we removed. The total data for the district changed a little with the removal of the 9th graders from Thomas High School; however, it did not have a big impact on the overall data as the size of the data from other schools was big.
+---
