@@ -4,7 +4,7 @@
 - We were given the task to analyze student grades from different high schools. For this challenge, our goal was to replace the incorrect math and reading scores for Thomas High School 9th graders while keeping the rest of the data intact.
 ---
 ## Results
-- [Code](/PyCitySchools.ipynb)
+- [Code](/PyCitySchools_Challenge.ipynb)
 - [School Summary Original](/Resources/school_summary.PNG) / [School Summary New](Resources/school_summary_new.PNG)
 - As you can see by the original School Summary, the scores for '% Passing Math', '% Passing Reading', and '% Overall Passing' are all lower than they should be. We removed all the data for Thomas High School 9th graders and got a new school summary. You can see a much greater increase the amount of students passing reading, math and overall.
 - We later sorted the schools by 'Spending Ranges Per Student', 'School Size', 'School Type' and class scores by grade among all the high schools. By removing the 9th grade data for Thomas High School, their data reads 'NaN' for their individual scores.
